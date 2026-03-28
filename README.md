@@ -25,9 +25,6 @@
 </div>
 
 <br>
-<br>
-<br>
-
 
 # 💻 Stacks
 <div align="center">
@@ -40,8 +37,6 @@
 
 </div>
 
-<br>
-<br>
 <br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" /> Git Animals
@@ -56,19 +51,18 @@
 </a>
 </div>
 
+<br>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
 <div align="center">
-<span>
-    
-<!-- solved.ac 티어 배지 -->
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj={백준아이디})](https://solved.ac/{백준아이디})
+  
+<!-- solved 티어 -->
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimminji056)](https://solved.ac/kimminji056)
 
 <!-- 백준 잔디 -->
-![Baekjoon Grass](https://mazandi.herokuapp.com/api?handle={백준아이디}&theme=warm)
+![Baekjoon Grass](https://mazandi.herokuapp.com/api?handle=kimminji056&theme=warm)
 
-
-</span>
 </div>
 
 
