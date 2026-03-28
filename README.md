@@ -1,11 +1,20 @@
 <div align="center">
+  
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=ffffff&background=A8C8E0&center=true&vCenter=true&width=1200&height=100&lines=올바른+방향으로+나아가는)
 
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12&height=200&text=Hello%2C%20I'm%20Minji%20Kim&fontSize=50&fontColor=000000)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=000000&background=7DAACB&center=true&vCenter=true&width=1200&height=100&lines=A+backend+developer+moving+in+the+right+direction)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=ffffff&background=A8C8E0&center=true&vCenter=true&width=1200&height=100&lines=Backend+Developer
+)
 
 </div>
+
+
+<br>
+<br>
+<br>
+<br>
 
 
 ## Stacks
