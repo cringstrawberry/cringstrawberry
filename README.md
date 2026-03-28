@@ -18,7 +18,7 @@
 <br>
 
 
-## Stacks
+# 💻 Stacks
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +29,9 @@
 
 </div>
 
+# 🐣 Git Animals
 
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cringstrawberry&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/cringstrawberry"
@@ -37,8 +39,14 @@
     height="300"
   />
 </a>
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4D95D0&section=footer" width="100%"/>
+
+</div>
 
 <!--
 **cringstrawberry/cringstrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
