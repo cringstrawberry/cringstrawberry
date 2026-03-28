@@ -17,6 +17,18 @@
 <br>
 <br>
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" /> About Me
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일주소@gmail.com)
+<!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/노션링크)-->
+
+</div>
+
+<br>
+<br>
+<br>
+
 
 # 💻 Stacks
 <div align="center">
@@ -29,15 +41,19 @@
 
 </div>
 
-# 🐣 Git Animals
+<br>
+<br>
+<br>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" /> Git Animals
 
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cringstrawberry&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/cringstrawberry"
-    width="600"
-    height="300"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cringstrawberry&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cringstrawberry"
+  width="600"
+  height="300"
+/>
 </a>
 </div>
 
