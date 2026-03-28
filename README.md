@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cringstrawberry&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cringstrawberry"
+    width="600"
+    height="300"
+  />
+</a>
+  
+
 <!--
 **cringstrawberry/cringstrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
