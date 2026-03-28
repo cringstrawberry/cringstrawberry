@@ -55,14 +55,12 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
+
 <div align="center">
-  
-<!-- solved 티어 -->
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimminji056)](https://solved.ac/kimminji056)
-
-<!-- 백준 잔디 -->
-![Baekjoon Grass](https://mazandi.herokuapp.com/api?handle=kimminji056&theme=warm)
-
+<!--티어-->
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimminji056" width="48%"/>
+<!--잔디-->
+<img src="https://mazandi.herokuapp.com/api?handle=kimminji056&theme=warm" width="48%"/>
 </div>
 
 
@@ -71,9 +69,6 @@
 <!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/노션링크)-->
 
 
-<!--
-<!-- GitHub 잔디 (BaekjoonHub 연동 시 백준 풀이로 채워짐) -->
-![GitHub Grass](https://ghchart.rshah.org/{cring}) -->
 
 <!--
 **cringstrawberry/cringstrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
