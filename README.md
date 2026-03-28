@@ -21,7 +21,6 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:이메일주소@gmail.com)
-<!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/노션링크)-->
 
 </div>
 
@@ -57,12 +56,30 @@
 </a>
 </div>
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Stats
 
 <div align="center">
+<span>
+    
+<!-- solved.ac 티어 배지 -->
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj={백준아이디})](https://solved.ac/{백준아이디})
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4D95D0&section=footer" width="100%"/>
+<!-- 백준 잔디 -->
+![Baekjoon Grass](https://mazandi.herokuapp.com/api?handle={백준아이디}&theme=warm)
 
+
+</span>
 </div>
+
+
+<!-- 🚨 아직 안쓰는 토픽 모음-->
+
+<!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/노션링크)-->
+
+
+<!--
+<!-- GitHub 잔디 (BaekjoonHub 연동 시 백준 풀이로 채워짐) -->
+![GitHub Grass](https://ghchart.rshah.org/{cring}) -->
 
 <!--
 **cringstrawberry/cringstrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
