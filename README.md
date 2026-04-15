@@ -63,6 +63,12 @@
 <img src="https://mazandi.herokuapp.com/api?handle=kimminji056&theme=warm" width="48%"/>
 </div>
 
+<br>
+<div align="center">
+  
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=m1RS631097)
+  
+</div>
 
 <!-- 🚨 아직 안쓰는 토픽 모음-->
 
