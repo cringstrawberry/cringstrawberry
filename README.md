@@ -57,11 +57,12 @@
 
 
 <div align="center">
-<!--티어-->
+<!--백준-->
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimminji056" width="48%"/>
-<!--잔디-->
-<img src="https://mazandi.herokuapp.com/api?handle=kimminji056&theme=warm" width="48%"/>
+<!--프로그래머스-->
+![Programmers Badge](https://raw.githubusercontent.com/{cringberry}/Programmers_Badge_Generator/main/result/result.svg)
 </div>
+
 
 <br>
 <div align="center">
