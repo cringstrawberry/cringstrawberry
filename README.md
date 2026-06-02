@@ -60,7 +60,7 @@
 <!--백준-->
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimminji056" width="48%"/>
 <!--프로그래머스-->
-https://raw.githubusercontent.com/cringberry/PROGRAMMERS-BADG/master/static/result.svg
+https://raw.githubusercontent.com/cringstrawberry/PROGRAMMERS-BADG/master/static/result.svg
 </div>
 
 
